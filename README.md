@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I'm an amateur programmer.</p>
+<p align="left">I'm a programmer.</p>
 
 ###
 
